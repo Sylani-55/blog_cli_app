@@ -1,0 +1,14 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environment (if using virtualenv or venv)
+venv/
+.venv/
+
+# IDE specific files
+.idea/
+.vscode/
+
+# MySQL specific files
+*.sql
